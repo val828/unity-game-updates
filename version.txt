@@ -1,2 +1,2 @@
-0.1
+0.2
 https://github.com/val828/unity-game-updates/releases/download/v0.1/45.zip
